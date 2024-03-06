@@ -1,0 +1,25 @@
+.header_part{
+    background: #1c1919;
+    padding: 10px 60px;
+    /* position:; */
+    top: 0;
+    width: 100%;
+    text-align: center;
+    z-index: 9999;
+}
+.header_part h2{
+    color: #fff;
+    padding: 10px;
+}
+.header_part img{
+    float: left;
+    height: 60px;
+    border-radius: 50%;
+}
+.data_table{
+    color: #fff;
+    background: #3d3a3a;
+    padding: 15px;
+    box-shadow: 1px 3px 5px #696464;
+    border-radius: 5px;
+}
