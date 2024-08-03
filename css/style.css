@@ -1,5 +1,5 @@
 .header_part{
-    background: #1c1919;
+    background: #0d0a18;
     padding: 10px 60px;
     /* position:; */
     top: 0;
@@ -14,12 +14,12 @@
 .header_part img{
     float: left;
     height: 60px;
-    border-radius: 50%;
+    border-radius: 5%;
 }
 .data_table{
     color: #fff;
-    background: #3d3a3a;
+    background: #477957;
     padding: 15px;
-    box-shadow: 1px 3px 5px #696464;
+    box-shadow: 5px 5px 5px 5px #1a3312c0;
     border-radius: 5px;
 }
